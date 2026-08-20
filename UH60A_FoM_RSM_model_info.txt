@@ -1,0 +1,16 @@
+UH-60A FoM RSM-BASED SURROGATE MODEL
+====================================
+
+Number of samples: 2000
+Number of input variables: 9
+Polynomial degree: 2
+Number of RSM terms: 55
+
+Training R2: 0.9994271601
+Training Adjusted R2: 0.9994112561
+Training RMSE: 1.663772336430e-04
+Training MAE: 1.243026709217e-04
+
+5-Fold CV R2: 0.9993872634
+5-Fold CV RMSE: 1.720735731078e-04
+5-Fold CV MAE: 1.279159073302e-04
