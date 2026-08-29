@@ -213,7 +213,7 @@ def BEMTsingle(
             sigma_r
             * Cl_local
             * r
-            / (4.0 * Ftip)
+            / (8.0 * Ftip)
         )
 
         rhs = np.maximum(
